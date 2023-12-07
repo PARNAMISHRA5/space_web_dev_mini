@@ -20,7 +20,7 @@ const Login = () => {
         color: 'white',
       }}
     >
-      <h1 style={{ marginBottom: '20px' }}>Click to Book Your Travel 💯</h1>
+      <h1 style={{ marginBottom: '20px' }}>Click to Book Your Travel </h1>
       <button
         style={{
           backgroundColor: '#4CAF50',
